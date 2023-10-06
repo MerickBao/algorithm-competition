@@ -1,4 +1,4 @@
-package Atcoder.ABC315;
+package Atcoder.ABC318;
 
 /**
  * @author: merickbao
@@ -8,9 +8,8 @@ package Atcoder.ABC315;
 
 import java.io.*;
 import java.util.*;
-import java.math.*;
 
-public class B {
+public class C {
     public static Reader in;
     public static PrintWriter out;
     public static void main(String[] args) {
@@ -21,10 +20,29 @@ public class B {
     }
 
     static void solve(){
-        int t = in.nextInt();
-        while (t-- > 0) {
-
+        int n = in.nextInt();
+        int d = in.nextInt();
+        long p = in.nextLong();
+        long[] f = new long[n];
+        long ans = 0;
+        for (int i = 0; i < n; i++) {
+            f[i] = in.nextLong();
+            ans += f[i];
         }
+        Arrays.sort(f);
+        for (int i = n - 1; i >= 0;) {
+            long now = 0;
+            int cnt = 0;
+            while (cnt < d && i >= 0) {
+                now += f[i];
+                i--;
+                cnt++;
+            }
+            if (now >= p) {
+                ans = ans - now + p;
+            }
+        }
+        out.println(ans);
     }
 
     static class Reader {

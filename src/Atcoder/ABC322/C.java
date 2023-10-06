@@ -1,16 +1,16 @@
-package Atcoder.ABC315;
+package Atcoder.ABC322;
 
 /**
- * @author: merickbao
  * @desc:
- * @since: 2023/8/18 21:51
+ * @author: merickbao
+ * @since: 2023/9/30 19:01
  */
 
 import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class A {
+public class C {
     public static Reader in;
     public static PrintWriter out;
     public static void main(String[] args) {
@@ -21,9 +21,14 @@ public class A {
     }
 
     static void solve(){
-        int t = in.nextInt();
-        while (t-- > 0) {
-            
+        int n = in.nextInt();
+        int m = in.nextInt();
+        TreeSet<Integer> all = new TreeSet<>();
+        for (int i = 0; i < m; i++) {
+            all.add(in.nextInt());
+        }
+        for (int i = 1; i <= n; i++) {
+            out.println(all.ceiling(i) - i);
         }
     }
 

@@ -1,16 +1,16 @@
-package Atcoder.ABC315;
+package Atcoder.ABC322;
 
 /**
- * @author: merickbao
  * @desc:
- * @since: 2023/8/18 21:52
+ * @author: merickbao
+ * @since: 2023/9/30 19:01
  */
 
 import java.io.*;
 import java.util.*;
 import java.math.*;
 
-public class C {
+public class A {
     public static Reader in;
     public static PrintWriter out;
     public static void main(String[] args) {
@@ -21,10 +21,13 @@ public class C {
     }
 
     static void solve(){
-        int t = in.nextInt();
-        while (t-- > 0) {
-
+        int n = in.nextInt();
+        String s = in.nextLine();
+        if (s.contains("ABC")) {
+            System.out.println(s.indexOf("ABC") + 1);
+            return;
         }
+        out.println(-1);
     }
 
     static class Reader {

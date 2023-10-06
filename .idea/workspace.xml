@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef9dfb57-b4e3-4723-b034-238257176ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AtCoder/ABC315/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AtCoder/ABC315/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/E.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithm-competition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-competition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atcoder/ABC315/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atcoder/ABC318/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atcoder/ABC315/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atcoder/ABC318/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atcoder/ABC315/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atcoder/ABC318/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Atcoder/ABC315/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atcoder/ABC318/D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
@@ -47,13 +62,65 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC315.A" />
+  <component name="RunManager" selected="Application.Atcoder.ABC322.D">
+    <configuration name="Atcoder.ABC322.A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC322.A" />
       <module name="algorithm-competition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atcoder.ABC315.*" />
+          <option name="PATTERN" value="Atcoder.ABC322.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcoder.ABC322.B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC322.B" />
+      <module name="algorithm-competition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Atcoder.ABC322.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcoder.ABC322.C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC322.C" />
+      <module name="algorithm-competition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Atcoder.ABC322.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Atcoder.ABC322.D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC322.D" />
+      <module name="algorithm-competition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Atcoder.ABC322.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC318.D" />
+      <module name="algorithm-competition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Atcoder.ABC318.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -63,7 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.A" />
+        <item itemvalue="Application.D" />
+        <item itemvalue="Application.Atcoder.ABC322.D" />
+        <item itemvalue="Application.Atcoder.ABC322.C" />
+        <item itemvalue="Application.Atcoder.ABC322.B" />
+        <item itemvalue="Application.Atcoder.ABC322.A" />
       </list>
     </recent_temporary>
   </component>
@@ -77,10 +148,21 @@
       <updated>1688895529290</updated>
       <workItem from="1692365942954" duration="490000" />
       <workItem from="1692366461694" duration="280000" />
+      <workItem from="1692367018198" duration="290000" />
+      <workItem from="1693017466912" duration="34000" />
+      <workItem from="1693653997254" duration="6595000" />
+      <workItem from="1693662734475" duration="810000" />
+      <workItem from="1696071673031" duration="5637000" />
+      <workItem from="1696460810668" duration="171000" />
+      <workItem from="1696460999479" duration="1621000" />
+      <workItem from="1696596582006" duration="42000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

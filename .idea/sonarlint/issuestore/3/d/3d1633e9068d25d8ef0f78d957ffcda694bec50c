@@ -1,0 +1,42 @@
+
+p
+java:S1104"NMake in a static final constant or non-public and provide accessors if needed.(¦öÂÆùÿÿÿÿ8¬Òç¯1
+q
+java:S1104"OMake out a static final constant or non-public and provide accessors if needed.(’óÈøÿÿÿÿ8¬Òç¯1
+J
+java:S1444"(Make this "public static in" field final(¦öÂÆùÿÿÿÿ8¬Òç¯1
+K
+java:S1444")Make this "public static out" field final(’óÈøÿÿÿÿ8¬Òç¯1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ÒıÜúÿÿÿÿ8’¬Òç¯1
+c
+java:S2259"@A "NullPointerException" could be thrown; "st" is nullable here.(¿ñğùÿÿÿÿ8†°Òç¯1
+L	java:S106"+Replace this use of System.out by a logger.(Ÿ‡şÿÿÿÿ8’°Òç¯1
+u
+java:S3776"SRefactor this method to reduce its Cognitive Complexity from 166 to the 15 allowed.(¬–åùÿÿÿÿ8•°Òç¯1
+`
+java:S1659">Declare "b" and all following declarations on a separate line.(Ñ÷µ„üÿÿÿÿ8˜°Òç¯1
+\
+java:S16593"?Declare "tb" and all following declarations on a separate line.(øÇ¬ñ8˜°Òç¯1
+]
+java:S1659U"@Declare "ttb" and all following declarations on a separate line.(Ø½¼¡8˜°Òç¯1
+v
+java:S30129"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(â²ë8°Òç¯1
+v
+java:S3012A"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¦Ğè½8°Òç¯1
+v
+java:S3012I"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(çŸï—8°Òç¯1
+u
+java:S3012["YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(”ÅÏd8Ÿ°Òç¯1
+{
+java:S3012c"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¯÷óŒıÿÿÿÿ8 °Òç¯1
+v
+java:S3012k"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(·ƒ¢ı8 °Òç¯1
+k	java:S100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªéÅÀ8¦°Òç¯1
+p	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¹¹Ùşÿÿÿÿ8§°Òç¯1
+k	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„®¢†8¨°Òç¯1
+w
+java:S3012Ô"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Ü¿İ’8¨°Òç¯1
+C
+java:S1128"&Remove this unused import 'java.math'.(âî©8°°Òç¯1
+ê
+java:S6541"ÇA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 126 to 64, Complexity from 51 to 14, Nesting Level from 10 to 2, Number of Variables from 51 to 6.(¬–åùÿÿÿÿ8Í°Òç¯1
