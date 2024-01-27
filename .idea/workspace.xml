@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef9dfb57-b4e3-4723-b034-238257176ec2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC322/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC326/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC326/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC326/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC326/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC326/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC338/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC338/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC338/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Atcoder/ABC338/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm-competition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm-competition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atcoder/ABC315/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atcoder/ABC318/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atcoder/ABC315/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atcoder/ABC318/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atcoder/ABC315/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atcoder/ABC318/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Atcoder/ABC315/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Atcoder/ABC318/D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,32 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/merickbao/projects/github/algorithm-competition&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/merickbao/projects/github/algorithm-competition",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "fileTemplates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.Atcoder.ABC322.D">
-    <configuration name="Atcoder.ABC322.A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC322.A" />
+}]]></component>
+  <component name="RunManager" selected="Application.Atcoder.ABC338.C">
+    <configuration name="Atcoder.ABC326.D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC326.D" />
       <module name="algorithm-competition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atcoder.ABC322.*" />
+          <option name="PATTERN" value="Atcoder.ABC326.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atcoder.ABC322.B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC322.B" />
+    <configuration name="Atcoder.ABC338.A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC338.A" />
       <module name="algorithm-competition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atcoder.ABC322.*" />
+          <option name="PATTERN" value="Atcoder.ABC338.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atcoder.ABC322.C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC322.C" />
+    <configuration name="Atcoder.ABC338.B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC338.B" />
       <module name="algorithm-competition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atcoder.ABC322.*" />
+          <option name="PATTERN" value="Atcoder.ABC338.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Atcoder.ABC322.D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC322.D" />
+    <configuration name="Atcoder.ABC338.C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC338.C" />
       <module name="algorithm-competition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atcoder.ABC322.*" />
+          <option name="PATTERN" value="Atcoder.ABC338.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC318.D" />
+    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Atcoder.ABC326.C" />
       <module name="algorithm-competition" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Atcoder.ABC318.*" />
+          <option name="PATTERN" value="Atcoder.ABC326.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.D" />
-        <item itemvalue="Application.Atcoder.ABC322.D" />
-        <item itemvalue="Application.Atcoder.ABC322.C" />
-        <item itemvalue="Application.Atcoder.ABC322.B" />
-        <item itemvalue="Application.Atcoder.ABC322.A" />
+        <item itemvalue="Application.Atcoder.ABC338.C" />
+        <item itemvalue="Application.Atcoder.ABC338.B" />
+        <item itemvalue="Application.Atcoder.ABC338.A" />
+        <item itemvalue="Application.Atcoder.ABC326.D" />
+        <item itemvalue="Application.C" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +157,9 @@
       <workItem from="1696460810668" duration="171000" />
       <workItem from="1696460999479" duration="1621000" />
       <workItem from="1696596582006" duration="42000" />
+      <workItem from="1698494083605" duration="6434000" />
+      <workItem from="1702485347435" duration="1196000" />
+      <workItem from="1706356446448" duration="2765000" />
     </task>
     <servers />
   </component>
@@ -164,5 +168,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
